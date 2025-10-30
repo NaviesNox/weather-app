@@ -16,7 +16,7 @@ A simple weather web application built with **Flask** and **Bootstrap** that dis
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/NaviesNox/weather-app.git
    cd weather-app
    ```
 
