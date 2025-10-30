@@ -48,9 +48,6 @@ A simple weather web application built with **Flask** and **Bootstrap** that dis
    http://127.0.0.1:5000
    ```
 
-## 📱 Screenshots
-*(Add screenshots of light and dark themes here)*
-
 ## 🧠 Notes
 - You need an active internet connection for API requests.
 - Free Weatherstack accounts use HTTP instead of HTTPS.
